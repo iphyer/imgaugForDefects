@@ -1,0 +1,10 @@
+# ignore Mac DS file
+.DS_Store
+
+# image folder
+dataset4/
+dataset5/
+
+
+# PyCharm Directory
+.idea/
