@@ -1,5 +1,5 @@
 # DataAugmentationWithKeras
-Data Augmentation of Defects With Keras
+Data Augmentation of Defects With [ImaAug](https://github.com/aleju/imgaug)
 
 ## Purpose
 
@@ -9,7 +9,6 @@ Use [`imgaug`](https://imgaug.readthedocs.io/en/latest/index.html) to created a 
 
 ## Process Record
 
-
-
-
 ## Final Resutls
+
+You will get 8 times larger dataset if you choose the default setting. Of course, you can get more if you do more augmentation operations.
